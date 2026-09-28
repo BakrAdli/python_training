@@ -1,15 +1,3 @@
-#x = 5
-#x = (float(x))
-#print (x)
-
-#name = "bakr"
-#name = (bool(name))
-#print (name)
-
-#answer = False
-#answer = (str(answer))
-#print(type(answer))
-
 user_name = "bakr"
 user_age = 19
 average_score = 87.7
